@@ -1,0 +1,16 @@
+finddevice    2970   866 6726192  99228 0                   0 S com.xiaomi.finddevice
+system        3449   866 6259772 106300 0                   0 S com.xiaomi.mirror
+u0_a102       4613   866 6307728  88000 0                   0 S com.xiaomi.mircs
+u0_a169       4627   866 6139456  86628 0                   0 S com.xiaomi.xmsfkeeper
+u0_a123       4825   866 6528656 106988 0                   0 S com.xiaomi.xmsf
+u0_a120       5245   866 6511460 101400 0                   0 S com.xiaomi.metoknlp
+system        5294   866 6364932  94560 0                   0 S com.xiaomi.location.fused
+u0_a123       5394   866 6341240 103044 0                   0 S com.xiaomi.xmsf:services
+system        5688   866 7479328  67600 0                   0 S com.xiaomi.mi_connect_service
+u0_a130       6316   866 23444056 105412 0                  0 S com.xiaomi.account
+system        6417   866 6385616 112696 0                   0 S com.xiaomi.joyose
+system        7764   866 6329112 115620 0                   0 S com.xiaomi.misettings:remote
+bluetooth     8182   866 6410700 101168 0                   0 S com.xiaomi.bluetooth
+system       10076   866 6109516  91680 0                   0 S com.xiaomi.mtb
+system       11449   866 6395836  96552 0                   0 S com.xiaomi.misettings
+system       13771   866 6332412 118040 0                   0 S com.xiaomi.misettings:widgetProvider
