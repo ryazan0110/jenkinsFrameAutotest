@@ -1,0 +1,2 @@
+# jenkinsFrameAutotest
+ jenkins部署
